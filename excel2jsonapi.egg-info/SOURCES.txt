@@ -1,0 +1,8 @@
+README.md
+setup.py
+excel2jsonapi/__init__.py
+excel2jsonapi.egg-info/PKG-INFO
+excel2jsonapi.egg-info/SOURCES.txt
+excel2jsonapi.egg-info/dependency_links.txt
+excel2jsonapi.egg-info/not-zip-safe
+excel2jsonapi.egg-info/top_level.txt
