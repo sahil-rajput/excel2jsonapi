@@ -14,7 +14,7 @@ Excel Format
 
 <pre>
 >>> import excel2jsonapi
->>> excel2jsonapi.create('~/Desktop/sample.xlsx')
+>>> excel2jsonapi.create('~/Desktop/excel2jsonapi/example/sample.xlsx')
 </pre>
 
 Response:
