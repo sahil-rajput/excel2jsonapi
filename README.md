@@ -1,6 +1,6 @@
 # excel2jsonapi
 
-Convert this type of EXCEL into API JSON Response.
+Convert EXCEL (as mentioned below ) into API JSON Response.
 
 Install Package
 <pre>
